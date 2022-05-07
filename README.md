@@ -1,9 +1,9 @@
-# hough_lines_and_circles_detection
+# Hough Lines and Circles Detection
 A program to detect lines, circles, or both from a USB camera stream using Hough detection method.
 
 # Requirments
 1. OpenCV 4.1.1
-2. Linux OS (tested with (JetPack 4.6)[https://developer.nvidia.com/jetpack-sdk-46] on Jetson Nano 2GB)
+2. Linux OS (tested with [JetPack 4.6](https://developer.nvidia.com/jetpack-sdk-46) on Jetson Nano 2GB)
 3. USB Camera
 
 # Build and run
